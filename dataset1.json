@@ -1,0 +1,1508 @@
+ [
+      {
+        "tag": "drowning",
+        "patterns": [
+          "What should I do if someone is drowning?",
+          "Steps to help a drowning person?",
+          "How to perform CPR on someone who drowned?"
+        ],
+        "responses": [
+          "Ensure your safety first. Get the person out of the water.",
+          "Check for responsiveness and breathing.",
+          "Perform 30 chest compressions followed by 2 rescue breaths.",
+          "Continue CPR until they breathe or help arrives.",
+          "If breathing, place them on their side. Stay with them and keep them calm."
+        ]
+      },
+      {
+        "tag": "blunt",
+        "patterns": [
+          "How to treat blunt injuries?",
+          "What should I do if someone has a blunt injury?",
+          "Steps to help someone with a blunt trauma?"
+        ],
+        "responses": [
+          "Ensure your safety first.",
+          "Check the injury's severity.",
+          "Apply pressure to stop any bleeding.",
+          "Apply ice (wrapped) to reduce swelling.",
+          "Keep the injured area still.",
+          "Watch for signs of shock.",
+          "Keep the person calm and reassured."
+        ]
+      },
+      {
+        "tag": "crush injuries",
+        "patterns": [
+          "What to do in case of crush injuries?",
+          "Steps for treating crush injuries?",
+          "How to help someone with a crush injury?"
+        ],
+        "responses": [
+          "Make sure the scene is safe.",
+          "Check airway, breathing, and circulation (ABCs).",
+          "Apply direct pressure; use a tourniquet if necessary.",
+          "Immobilize the injured area and keep the victim calm.",
+          "Watch for signs of shock and keep the victim warm.",
+          "Leave impaled objects in place; only medical professionals should remove them."
+        ]
+      },
+      {
+        "tag": "hypothermia",
+        "patterns": [
+          "What are the steps to treat hypothermia?",
+          "How to help someone with hypothermia?",
+          "What should I do if someone has hypothermia?"
+        ],
+        "responses": [
+          "Get the person indoors or to a sheltered place.",
+          "Replace with dry, warm clothes or blankets.",
+          "Use blankets or body heat; avoid direct heat.",
+          "If conscious, give warm, non-alcoholic, non-caffeinated drinks.",
+          "Keep these areas well-covered.",
+          "Be ready to perform CPR if necessary.",
+          "Keep them warm and calm until help arrives."
+        ]
+      },
+      {
+        "tag": "electrocution",
+        "patterns": [
+          "How to help someone who got electrocuted?",
+          "Steps for treating electrocution?",
+          "What should I do if someone is electrocuted?"
+        ],
+        "responses": [
+          "Turn off the power source or use a non-conductive object to separate the person from the source.",
+          "Begin CPR if the person is unresponsive and not breathing.",
+          "Cover burns with sterile gauze or a clean cloth.",
+          "Lay the person down with legs elevated; keep them warm.",
+          "Monitor their condition until help arrives."
+        ]
+      },
+      {
+        "tag": "asphyxia",
+        "patterns": [
+          "How to help someone with asphyxia?",
+          "What should I do if someone is suffocating?",
+          "Steps for treating asphyxia?"
+        ],
+        "responses": [
+          "If the person is unresponsive, check for breathing.",
+          "If not breathing, start CPR with chest compressions and rescue breaths if trained.",
+          "If you see an object in the throat, try to remove it carefully.",
+          "If the person is choking, perform abdominal thrusts (Heimlich maneuver).",
+          "If the airway is clear but the person is not breathing, give rescue breaths."
+        ]
+      },
+      {
+        "tag": "spinal injuries",
+        "patterns": [
+          "How to handle spinal injuries?",
+          "Steps for treating spinal injuries?",
+          "What should I do if someone has a spinal injury?"
+        ],
+        "responses": [
+          "Advise the person not to move.",
+          "Stabilize their head and neck to prevent movement.",
+          "If the person is not breathing, use the jaw-thrust maneuver to open the airway without moving the neck.",
+          "Keep the person warm and calm.",
+          "Continuously monitor breathing and consciousness until help arrives."
+        ]
+      },
+      {
+        "tag": "heat exhaustion",
+        "patterns": [
+          "What to do for heat exhaustion?",
+          "Steps to treat heat exhaustion?",
+          "How to help someone with heat exhaustion?"
+        ],
+        "responses": [
+          "Get the person to a shaded or air-conditioned area.",
+          "Give small sips of cool water or a sports drink.",
+          "Use cool, wet cloths on the skin, or have the person take a cool shower or bath.",
+          "Have the person lie down and elevate their legs slightly.",
+          "Remove or loosen tight clothing."
+        ]
+      },
+      {
+        "tag": "Malnutrition",
+        "patterns": [
+          "How to help someone with malnutrition?",
+          "What should I do if someone is malnourished?",
+          "Steps to address malnutrition?"
+        ],
+        "responses": [
+          "Offer small sips of water or oral rehydration solutions.",
+          "Provide easily digestible foods like fruits, yogurt, or energy bars if available.",
+          "Ensure the person rests in a comfortable position."
+        ]
+      },
+      {
+        "tag": "dehydration",
+        "patterns": [
+          "What to do for dehydration?",
+          "Steps to treat dehydration?",
+          "How to help someone who is dehydrated?"
+        ],
+        "responses": [
+          "Offer small, frequent sips of water or oral rehydration solutions (ORS).",
+          "Have the person rest in a cool, shaded area.",
+          "Use cool, wet cloths on the skin or fan the person to help cool down.",
+          "Keep an eye on their condition and seek medical help if symptoms persist or worsen."
+        ]
+      },
+      {
+        "tag": "lacerations",
+        "patterns": [
+          "How to treat lacerations?",
+          "Steps for treating cuts and lacerations?",
+          "What should I do if someone has a deep cut?"
+        ],
+        "responses": [
+          "Use clean cloth to stop bleeding.",
+          "Rinse with water, avoid harsh solutions.",
+          "Use antibiotic ointment if available.",
+          "Use sterile gauze or bandage to protect the wound.",
+          "Especially for deep, large cuts or signs of infection."
+        ]
+      },
+      {
+        "tag": "carbon monoxide poisoning",
+        "patterns": [
+          "What should I do if someone has carbon monoxide poisoning?",
+          "Steps for dealing with carbon monoxide poisoning?",
+          "How to help someone exposed to carbon monoxide?"
+        ],
+        "responses": [
+          "Immediately move the person to an area with fresh air, away from the source of carbon monoxide.",
+          "Dial emergency services (911) for immediate medical assistance.",
+          "If the person is unconscious but breathing, position them on their side to help ensure an open airway.",
+          "Seek medical attention promptly, as carbon monoxide poisoning can be life-threatening and requires professional treatment."
+        ]
+      },
+      {
+        "tag": "frostbite",
+        "patterns": [
+          "How to treat frostbite?",
+          "Steps for treating frostbite?",
+          "What should I do if someone has frostbite?"
+        ],
+        "responses": [
+          "Get the person indoors or to a warm area.",
+          "Replace with dry clothing or blankets.",
+          "Use warm (not hot) water to soak the affected area for 20-30 minutes, or use body heat (such as placing affected hands under armpits).",
+          "Avoid rubbing or massaging frostbitten skin.",
+          "Keep the affected area warm and covered.",
+          "Seek medical help as soon as possible for further evaluation and treatment."
+        ]
+      },
+      {
+        "tag": "heatstroke",
+        "patterns": [
+          "What to do for heatstroke?",
+          "Steps to treat heatstroke?",
+          "How to help someone with heatstroke?"
+        ],
+        "responses": [
+          "Get the person to a cool, shaded area.",
+          "Apply cool water or wet cloths, and fan them.",
+          "Offer sips of water if conscious.",
+          "Watch for changes in condition."
+        ]
+      },
+      {
+        "tag": "trauma",
+        "patterns": [
+          "How to help someone who experienced trauma?",
+          "Steps for dealing with trauma?",
+          "What should I do if someone is traumatized?"
+        ],
+        "responses": [
+          "Ensure the area is safe.",
+          "Check for responsiveness and breathing; provide CPR if needed.",
+          "Apply pressure to stop bleeding.",
+          "Stabilize injuries to prevent further damage.",
+          "Cover with blankets.",
+          "Dial emergency services (911) immediately."
+        ]
+      },
+      {
+        "tag": "slips and falls",
+        "patterns": [
+          "What to do if someone slips and falls?",
+          "Steps for helping someone who fell?",
+          "How to assist someone who had a fall?"
+        ],
+        "responses": [
+          "Check the area for safety before helping.",
+          "Assess consciousness and breathing.",
+          "Reassure and keep calm.",
+          "Apply ice packs, elevate limbs if safe, and monitor for pain or difficulty moving.",
+          "Offer assistance as needed."
+        ]
+      },
+      {
+        "tag": "burns",
+        "patterns": [
+          "What should I do for burns?",
+          "I got burned, what now?",
+          "Help with burn injuries",
+          "How to treat burns?",
+          "Burn first aid steps"
+        ],
+        "responses": [
+          "Immediately cool the burn under cool, running water for at least 10 minutes.",
+          "Cover loosely with a clean, non-stick bandage or cloth.",
+          "Seek medical attention for severe burns, large burns, or burns on sensitive areas like the face or hands."
+        ]
+      },
+      {
+        "tag": "smoke inhalation",
+        "patterns": [
+          "I inhaled smoke, what should I do?",
+          "Help with smoke inhalation",
+          "Treatment for inhaling smoke",
+          "Dealing with smoke exposure"
+        ],
+        "responses": [
+          "Move to fresh air immediately.",
+          "Contact emergency services.",
+          "Watch for signs of breathing difficulty or other symptoms.",
+          "Do not re-enter the smoke-filled area until it's declared safe by authorities."
+        ]
+      },
+      {
+        "tag": "respiratory",
+        "patterns": [
+          "Someone's not breathing normally, what do I do?",
+          "Help with respiratory emergency",
+          "How to perform CPR?",
+          "Assist with breathing problems"
+        ],
+        "responses": [
+          "Check responsiveness and breathing.",
+          "Call emergency services.",
+          "If not breathing normally, start CPR (Cardiopulmonary Resuscitation) until help arrives.",
+          "Keep the person calm and reassured."
+        ]
+      },
+      {
+        "tag": "chemical exposure",
+        "patterns": [
+          "What to do for chemical exposure?",
+          "Help with exposure to chemicals",
+          "Dealing with chemical burns",
+          "Emergency due to chemical contact"
+        ],
+        "responses": [
+          "Move the person away from the source of the chemical.",
+          "Rinse affected area with plenty of water for at least 20 minutes.",
+          "Remove contaminated clothing while rinsing.",
+          "Seek medical attention immediately, and bring the chemical container or details if possible."
+        ]
+      },
+      {
+        "tag": "radiation",
+        "patterns": [
+          "What if someone is exposed to radiation?",
+          "Help with radiation exposure",
+          "Dealing with radioactive contamination"
+        ],
+        "responses": [
+          "Move away from the radiation source immediately.",
+          "Remove contaminated clothing.",
+          "Rinse exposed skin with plenty of water.",
+          "Get to a safe location and seek medical help promptly."
+        ]
+      },
+      {
+        "tag": "chemical burns",
+        "patterns": [
+          "What should I do for chemical burns?",
+          "Help with chemical burn injuries",
+          "Treatment for chemical burns"
+        ],
+        "responses": [
+          "Ensure your own safety by wearing gloves and protective clothing if possible.",
+          "Immediately rinse the affected area with cool running water for at least 20 minutes.",
+          "Carefully remove any clothing or jewelry that may have been exposed to the chemical.",
+          "Seek medical evaluation to assess the extent of the injury and prevent complications."
+        ]
+      },
+      {
+        "tag": "poisoning",
+        "patterns": [
+          "Someone has been poisoned, what should I do?",
+          "Help with poisoning",
+          "First aid for ingestion of poison"
+        ],
+        "responses": [
+          "Contact emergency services immediately.",
+          "Keep the person calm and still.",
+          "Provide details about the poison if known.",
+          "Do not give anything by mouth unless instructed by medical professionals."
+        ]
+      },
+      {
+        "tag": "blunt force trauma",
+        "patterns": [
+          "Help with blunt force injury",
+          "Treatment for blunt trauma",
+          "Someone got hurt from blunt force, what now?"
+        ],
+        "responses": [
+          "Ensure the area is safe.",
+          "Assess consciousness and breathing.",
+          "Apply direct pressure to any wounds.",
+          "Avoid unnecessary movement, especially if there's a risk of spinal injury."
+        ]
+      },
+      {
+        "tag": "skin infection",
+        "patterns": [
+          "How to treat skin infection?",
+          "Help with infected skin",
+          "Dealing with skin infections"
+        ],
+        "responses": [
+          "Wash the affected area gently with soap and water.",
+          "Use an over-the-counter antiseptic or antibiotic ointment.",
+          "Keep the area covered with a clean bandage.",
+          "Consult a healthcare professional if the infection doesn't improve or worsens."
+        ]
+      },
+      {
+        "tag": "food poisoning",
+        "patterns": [
+          "Suspected food poisoning, what to do?",
+          "Help with foodborne illness",
+          "Dealing with food poisoning symptoms"
+        ],
+        "responses": [
+          "Drink water and oral rehydration solutions.",
+          "Get plenty of rest.",
+          "Eat bland foods like bananas, rice, applesauce, and toast (BRAT diet) after symptoms ease.",
+          "Contact a doctor for severe symptoms (high fever, blood in stool, prolonged vomiting/diarrhea, dehydration)."
+        ]
+      },
+      {
+        "tag": "insect bites",
+        "patterns": [
+          "Help with insect bites",
+          "Treatment for bug bites",
+          "How to treat mosquito bites?"
+        ],
+        "responses": [
+          "Wash the area with soap and water.",
+          "Apply a cold pack to reduce swelling and pain.",
+          "Use over-the-counter antihistamines or hydrocortisone cream to reduce itching and swelling.",
+          "Watch for signs of an allergic reaction and seek medical help if they occur."
+        ]
+      },
+      {
+        "tag": "animal_bites",
+        "patterns": [
+          "What should I do for animal bites?",
+          "Help with bites from animals",
+          "Treatment for dog/cat bites"
+        ],
+        "responses": [
+          "Wash the wound thoroughly with soap and water.",
+          "Apply pressure with a clean cloth to stop any bleeding.",
+          "Use an over-the-counter antibiotic ointment.",
+          "Contact a doctor for further evaluation, especially if the bite is deep, from a wild animal, or shows signs of infection."
+        ]
+      },
+      {
+        "tag": "snake bites",
+        "patterns": [
+          "Help with snake bites",
+          "Treatment for snake bites",
+          "What to do if bitten by a snake?"
+        ],
+        "responses": [
+          "Keep Calm: Try to remain calm and limit movement.",
+          "Keep the affected limb immobilized and at or below heart level.",
+          "Wash the bite area with soap and water, but do not apply ice or a tourniquet.",
+          "Get to the hospital as quickly as possible for antivenom treatment."
+        ]
+      },
+      {
+        "tag": "skin irritation",
+        "patterns": [
+          "Help with skin irritation",
+          "Treatment for irritated skin",
+          "Dealing with skin rash"
+        ],
+        "responses": [
+          "Clean: Gently wash the area with mild soap and water.",
+          "Apply a cool compress to soothe itching and reduce inflammation.",
+          "Use over-the-counter hydrocortisone cream or antihistamines if needed.",
+          "Identify and avoid the irritant causing the reaction."
+        ]
+      },
+      {
+        "tag": "asthma",
+        "patterns": [
+          "Help with asthma attack",
+          "Asthma first aid",
+          "Treatment for asthma flare-up"
+        ],
+        "responses": [
+          "Inhaler: Use a rescue inhaler (albuterol) as directed.",
+          "Sit upright to help breathe more easily.",
+          "Try to remain calm and take slow, deep breaths.",
+          "Seek emergency medical assistance if symptoms do not improve."
+        ]
+      },
+      {
+        "tag": "cholera",
+        "patterns": [
+          "Help with cholera symptoms",
+          "Dealing with cholera",
+          "Cholera first aid"
+        ],
+        "responses": [
+          "Rehydrate: Drink oral rehydration solutions or clean water with salt and sugar.",
+          "Antibiotics may be prescribed by a healthcare provider.",
+          "Maintain strict hygiene to prevent spreading.",
+          "Go to a healthcare facility for proper treatment."
+        ]
+      },
+      {
+        "tag": "blindness",
+        "patterns": [
+          "Help with blindness",
+          "First aid for someone blind",
+          "Dealing with sudden blindness"
+        ],
+        "responses": [
+          "Protect Eyes: Protect the eyes from further injury.",
+          "Help the person stay calm.",
+          "Get immediate medical attention.",
+          "Assist the person to a safe place and provide support."
+        ]
+      },
+      {
+        "tag": "leg broke",
+        "patterns": [
+          "Help with broken leg",
+          "What to do for a broken leg",
+          "Treatment for fractured leg"
+        ],
+        "responses": [
+          "Immobilize: Keep the leg as still as possible.",
+          "Apply a splint to immobilize the leg if trained.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for professional treatment."
+        ]
+      },
+      {
+        "tag": "hand broke",
+        "patterns": [
+          "Help with broken hand",
+          "What to do for a broken hand",
+          "Treatment for fractured hand"
+        ],
+        "responses": [
+          "Immobilize: Keep the hand still and avoid movement.",
+          "Use a splint to stabilize the hand.",
+          "Apply ice to reduce swelling.",
+          "Go to the hospital for an X-ray and proper care."
+        ]
+      },
+      {
+        "tag": "head injuries",
+        "patterns": [
+          "Help with head injury",
+          "Treatment for head trauma",
+          "What should I do for a head injury?"
+        ],
+        "responses": [
+          "Check Responsiveness: Ensure the person is conscious and responsive.",
+          "Keep the person's head and neck still.",
+          "Apply gentle pressure to stop any bleeding.",
+          "Get immediate medical attention, especially for severe symptoms."
+        ]
+      },
+      {
+        "tag": "neck injuries",
+        "patterns": [
+          "Help with neck injury",
+          "Treatment for neck trauma",
+          "Dealing with neck pain or injury"
+        ],
+        "responses": [
+          "Check for any immediate danger to yourself and the injured person.",
+          "Ensure the area is safe.",
+          "Advise them not to move their neck or head unless necessary.",
+          "Call emergency services immediately if the injury is severe."
+        ]
+      },
+      {
+        "tag": "back injuries",
+        "patterns": [
+          "Help with back injury",
+          "Treatment for back trauma",
+          "Dealing with back pain or injury"
+        ],
+        "responses": [
+          "Check for any danger to yourself and the injured person.",
+          "Ensure the area is safe.",
+          "Advise them not to move unless absolutely necessary.",
+          "Call emergency services or seek medical attention if the injury is severe."
+        ]
+      },
+      {
+        "tag": "chest injuries",
+        "patterns": [
+          "Help with chest injury",
+          "Treatment for chest trauma",
+          "Dealing with chest pain or injury"
+        ],
+        "responses": [
+          "Seek immediate medical help.",
+          "Help the person sit upright or in a comfortable position.",
+          "Support any injured areas with cushions or blankets.",
+          "Avoid giving food or drink if the person is having trouble breathing."
+        ]
+      },
+      {
+        "tag": "fractures",
+        "patterns": [
+          "Help with fracture",
+          "Treatment for bone fracture",
+          "Dealing with broken bones"
+        ],
+        "responses": [
+          "Seek immediate medical help.",
+          "Keep the injured area still and stable.",
+          "Use an ice pack to reduce swelling.",
+          "Keep the person calm and reassure them."
+        ]
+      },
+      {
+        "tag": "cuts",
+        "patterns": [
+          "Help with cuts",
+          "Treatment for cuts",
+          "Dealing with open wounds"
+        ],
+        "responses": [
+          "Wash the area with soap and water.",
+          "Apply gentle pressure with a clean cloth.",
+          "Apply an antiseptic.",
+          "Use a sterile bandage or dressing."
+        ]
+      },
+      {
+        "tag": "scrapes",
+        "patterns": [
+          "Help with scrapes",
+          "Treatment for scrapes",
+          "Dealing with minor cuts"
+        ],
+        "responses": [
+          "Wash the area with soap and water.",
+          "Apply an antiseptic.",
+          "Use a clean bandage or dressing.",
+          "Replace the bandage daily or if it gets dirty."
+        ]
+      },
+      {
+        "tag": "bruises",
+        "patterns": [
+          "Help with bruises",
+          "Treatment for bruising",
+          "Dealing with bruises"
+        ],
+        "responses": [
+          "Avoid further injury to the area.",
+          "Apply an ice pack for 15-20 minutes.",
+          "Raise the bruised area above heart level.",
+          "Take over-the-counter pain relievers if needed."
+        ]
+      },
+      {
+        "tag": "sprains",
+        "patterns": [
+          "Help with sprains",
+          "Treatment for sprains",
+          "Dealing with sprained joints"
+        ],
+        "responses": [
+          "Avoid putting weight on the injured area.",
+          "Apply an ice pack for 15-20 minutes.",
+          "Wrap the area with an elastic bandage.",
+          "Raise the injured area above heart level."
+        ]
+      },
+      {
+        "tag": "strains",
+        "patterns": [
+          "Help with strains",
+          "Treatment for muscle strains",
+          "Dealing with pulled muscles"
+        ],
+        "responses": [
+          "Avoid using the injured muscle.",
+          "Apply an ice pack for 15-20 minutes.",
+          "Wrap the area with an elastic bandage.",
+          "Raise the injured area above heart level."
+        ]
+      },
+      {
+        "tag": "dislocations",
+        "patterns": [
+          "Help with joint dislocation",
+          "Treatment for dislocated joint",
+          "Dealing with joint out of place"
+        ],
+        "responses": [
+          "Keep the injured joint still.",
+          "Use a splint or sling to immobilize the joint.",
+          "Use an ice pack to reduce swelling.",
+          "Get medical assistance promptly."
+        ]
+      },
+      {
+        "tag": "amputation",
+        "patterns": [
+          "Help with amputation",
+          "Treatment for amputated limb",
+          "Dealing with severed body part"
+        ],
+        "responses": [
+          "Seek immediate medical help.",
+          "Apply firm pressure with a clean cloth or bandage.",
+          "Raise the injured area above heart level if possible.",
+          "Keep the person as calm and comfortable as possible."
+        ]
+      },
+      {
+        "tag": "infection",
+        "patterns": [
+          "Help with infection",
+          "Treatment for infected wound",
+          "Dealing with wound infection"
+        ],
+        "responses": [
+          "Wash the area with soap and water.",
+          "Apply an antiseptic.",
+          "Use a clean bandage or dressing.",
+          "Monitor for signs of worsening infection."
+        ]
+      },
+      {
+        "tag": "skull fracture",
+        "patterns": [
+          "Help with skull fracture",
+          "Treatment for fractured skull",
+          "Dealing with head injury"
+        ],
+        "responses": [
+          "Seek immediate medical help.",
+          "Have the injured person lie down and stay still.",
+          "Apply gentle pressure with a clean cloth if there's bleeding.",
+          "Do not move the person unless necessary."
+        ]
+      },
+      {
+        "tag": "bone",
+        "patterns": ["broken bone", "fractured bone", "bone fracture","bone"],
+        "responses": [
+          "Keep the injured area still. Use a splint to stabilize the bone.",
+          "Apply ice to reduce swelling.",
+          "Get professional medical care."
+        ]
+      },
+      {
+        "tag": "broken_ribs",
+        "patterns": ["broken ribs", "fractured ribs", "rib fracture"],
+        "responses": [
+          "Encourage the person to rest.",
+          "Apply ice to reduce pain and swelling.",
+          "Use over-the-counter pain relievers if needed.",
+          "See a doctor for further evaluation and treatment."
+        ]
+      },
+      {
+        "tag": "broken_arm",
+        "patterns": ["broken arm", "fractured arm", "arm fracture"],
+        "responses": [
+          "Keep the arm still.",
+          "Use a splint to stabilize the arm.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "broken_leg",
+        "patterns": ["broken leg", "fractured leg", "leg fracture"],
+        "responses": [
+          "Keep the leg still.",
+          "Use a splint to stabilize the leg.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "broken_foot",
+        "patterns": ["broken foot", "fractured foot", "foot fracture"],
+        "responses": [
+          "Keep the foot still.",
+          "Use a splint or bandage to stabilize the foot.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "broken_toe",
+        "patterns": ["broken toe", "fractured toe", "toe fracture"],
+        "responses": [
+          "Keep the toe still.",
+          "Tape the broken toe to an adjacent toe for support.",
+          "Apply ice to reduce swelling.",
+          "See a doctor for further evaluation."
+        ]
+      },
+      {
+        "tag": "broken_hand",
+        "patterns": ["broken hand", "fractured hand", "hand fracture"],
+        "responses": [
+          "Keep the hand still.",
+          "Use a splint to stabilize the hand.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "broken_finger",
+        "patterns": ["broken finger", "fractured finger", "finger fracture"],
+        "responses": [
+          "Keep the finger still.",
+          "Tape the broken finger to an adjacent finger for support.",
+          "Apply ice to reduce swelling.",
+          "See a doctor for further evaluation."
+        ]
+      },
+      {
+        "tag": "broken_nose",
+        "patterns": ["broken nose", "fractured nose", "nose fracture"],
+        "responses": [
+          "Keep the person upright and leaning forward.",
+          "Apply ice to reduce swelling.",
+          "Prevent further injury by avoiding nose blowing.",
+          "Get professional medical care."
+        ]
+      },
+      {
+        "tag": "broken_jaw",
+        "patterns": ["broken jaw", "fractured jaw", "jaw fracture"],
+        "responses": [
+          "Keep the jaw still.",
+          "Apply ice to reduce swelling.",
+          "Do not eat solid food.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "broken_teeth",
+        "patterns": ["broken teeth", "fractured teeth", "teeth fracture"],
+        "responses": [
+          "Rinse mouth gently with warm water.",
+          "If a tooth is knocked out, keep it in milk or saline solution.",
+          "Apply ice to reduce swelling.",
+          "Get to a dentist or emergency room immediately."
+        ]
+      },
+      {
+        "tag": "broken_eye",
+        "patterns": ["broken eye", "eye fracture"],
+        "responses": [
+          "Keep the head and eye still.",
+          "Apply ice to reduce swelling.",
+          "Do not apply pressure to the eye.",
+          "Get immediate medical attention."
+        ]
+      },
+      {
+        "tag": "broken_ear",
+        "patterns": ["broken ear", "ear fracture"],
+        "responses": [
+          "Clean the area gently if there is any bleeding.",
+          "Apply ice to reduce swelling.",
+          "Do not apply direct pressure.",
+          "See a doctor for further evaluation."
+        ]
+      },
+      {
+        "tag": "broken_neck",
+        "patterns": ["broken neck", "neck fracture"],
+        "responses": [
+          "Keep the person still and avoid moving the neck.",
+          "Use a cervical collar if available.",
+          "Seek immediate emergency medical help.",
+          "Keep the person calm and monitor for shock."
+        ]
+      },
+      {
+        "tag": "broken_back",
+        "patterns": ["broken back", "back fracture"],
+        "responses": [
+          "Keep the person still and avoid moving the back.",
+          "Use supports if available.",
+          "Seek immediate emergency medical help.",
+          "Keep the person calm and monitor for shock."
+        ]
+      },
+      {
+        "tag": "broken_pelvis",
+        "patterns": ["broken pelvis", "pelvic fracture"],
+        "responses": [
+          "Keep the person still and avoid moving the pelvis.",
+          "Use supports if available.",
+          "Seek immediate emergency medical help.",
+          "Keep the person calm and monitor for shock."
+        ]
+      },
+      {
+        "tag": "broken_hip",
+        "patterns": ["broken hip", "hip fracture"],
+        "responses": [
+          "Keep the person still and avoid moving the hip.",
+          "Use supports if available.",
+          "Seek immediate emergency medical help.",
+          "Keep the person calm and monitor for shock."
+        ]
+      },
+      {
+        "tag": "broken_knee",
+        "patterns": ["broken knee", "knee fracture"],
+        "responses": [
+          "Keep the knee still.",
+          "Use a splint to stabilize the knee.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "broken_ankle",
+        "patterns": ["broken ankle", "ankle fracture"],
+        "responses": [
+          "Keep the ankle still.",
+          "Use a splint to stabilize the ankle.",
+          "Apply ice to reduce swelling.",
+          "Get to the hospital for an X-ray and treatment."
+        ]
+      },
+      {
+        "tag": "internal_bleeding",
+        "patterns": ["internal bleeding", "bleeding internally"],
+        "responses": [
+          "Seek immediate emergency medical help.",
+          "Keep the person still and calm.",
+          "Watch for signs of shock (pale, clammy skin, rapid pulse).",
+          "If there are no leg injuries, elevate the legs to improve blood flow."
+        ]
+      },
+      {
+        "tag": "internal_organ_damage",
+        "patterns": ["internal organ damage", "organ damage"],
+        "responses": [
+          "Seek immediate emergency medical help.",
+          "Keep the person still and calm.",
+          "Watch for signs of shock.",
+          "Keep the person comfortable until help arrives."
+        ]
+      },
+      {
+        "tag": "internal_organ_rupture",
+        "patterns": ["internal organ rupture", "organ rupture"],
+        "responses": [
+          "Seek immediate emergency medical help.",
+          "Keep the person still and calm.",
+          "Watch for signs of shock.",
+          "Keep the person comfortable until help arrives."
+        ]
+      },
+      {
+        "tag": "spinal_cord_injuries",
+        "patterns": ["spinal cord injuries", "spinal injury", "spine injury"],
+        "responses": [
+          "Keep the person still and avoid any movement.",
+          "Use hands or a cervical collar to keep the head aligned with the spine.",
+          "Seek immediate medical assistance.",
+          "Check for signs of shock and keep the person calm."
+        ]
+      },
+      {
+        "tag": "paralysis",
+        "patterns": ["paralysis"],
+        "responses": [
+          "Ensure the person can breathe; perform CPR if necessary.",
+          "Keep the person still and avoid movement.",
+          "Provide support to the affected area without moving the person.",
+          "Get emergency medical assistance immediately."
+        ]
+      },
+      {
+        "tag": "paralysis_legs",
+        "patterns": ["paralysis of the legs"],
+        "responses": [
+          "Ensure the person can breathe; perform CPR if necessary.",
+          "Keep the person still and avoid movement of the affected area.",
+          "Provide support to the affected area without moving the person.",
+          "Get emergency medical assistance immediately."
+        ]
+      },
+      {
+        "tag": "paralysis_arms",
+        "patterns": ["paralysis of the arms"],
+        "responses": [
+          "Ensure the person can breathe; perform CPR if necessary.",
+          "Keep the person still and avoid movement of the affected area.",
+          "Provide support to the affected area without moving the person.",
+          "Get emergency medical assistance immediately."
+        ]
+      },
+      {
+        "tag": "paralysis_face",
+        "patterns": ["paralysis of the face"],
+        "responses": [
+          "Ensure the person can breathe; perform CPR if necessary.",
+          "Keep the person still and avoid movement of the affected area.",
+          "Provide support to the affected area without moving the person.",
+          "Get emergency medical assistance immediately."
+        ]
+      },
+      {
+        "tag": "paralysis_torso",
+        "patterns": ["paralysis of the torso"],
+        "responses": [
+          "Ensure the person can breathe; perform CPR if necessary.",
+          "Keep the person still and avoid movement of the affected area.",
+          "Provide support to the affected area without moving the person.",
+          "Get emergency medical assistance immediately."
+        ]
+      },   
+      {
+        "tag": "smoke_inhalation",
+        "patterns": ["smoke inhalation"],
+        "responses": [
+          "Get the person to fresh air as quickly as possible.",
+          "Loosen tight clothing to help with breathing.",
+          "If the person is not breathing, perform CPR.",
+          "Call emergency services immediately for further evaluation and treatment."
+        ]
+      },
+      {
+        "tag": "carbon_monoxide_poisoning",
+        "patterns": ["carbon monoxide poisoning"],
+        "responses": [
+          "Get the person to fresh air immediately.",
+          "Dial emergency services.",
+          "If the person is not breathing, perform CPR. If available, provide 100% oxygen.",
+          "Ensure the person gets immediate medical attention."
+        ]
+      },
+      {
+        "tag": "asphyxiation",
+        "patterns": ["asphyxiation"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_smoke",
+        "patterns": ["asphyxiation by smoke"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_fumes",
+        "patterns": ["asphyxiation by fumes"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_gas",
+        "patterns": ["asphyxiation by gas"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_chemicals",
+        "patterns": ["asphyxiation by chemicals"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_dust",
+        "patterns": ["asphyxiation by dust"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_water",
+        "patterns": ["asphyxiation by water"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_air",
+        "patterns": ["asphyxiation by air"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_lack_of_oxygen",
+        "patterns": ["asphyxiation by lack of oxygen"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_lack_of_air",
+        "patterns": ["asphyxiation by lack of air"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "asphyxiation_by_lack_of_breathing",
+        "patterns": ["asphyxiation by lack of breathing"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Remove the person from the source of asphyxiation if it's safe to do so.",
+          "Ensure the person's airway is clear.",
+          "If the person is not breathing, begin CPR if trained."
+        ]
+      },
+      {
+        "tag": "oxygen_deprivation",
+        "patterns": ["oxygen deprivation"],
+        "responses": [
+          "Immediately call emergency services.",
+          "Ensure the person's airway is clear.",
+          "If choking, perform the Heimlich maneuver.",
+          "If the person is not breathing, begin CPR if trained. If an Automated External Defibrillator (AED) is available, use it as directed. Keep monitoring the person's breathing and pulse until help arrives."
+        ]
+      },
+      {
+        "tag": "asthma_exacerbation",
+        "patterns": ["asthma exacerbation"],
+        "responses": [
+          "Keep the person calm and reassure them.",
+          "Have the person sit upright. Do not have them lie down.",
+          "Help the person use their quick-relief (rescue) inhaler, usually a short-acting beta-agonist like albuterol.",
+          "Loosen any tight clothing around the neck and chest. Move away from any known asthma triggers (e.g., smoke, dust)."
+        ]
+      },
+      {
+        "tag": "asthma_attack",
+        "patterns": ["asthma attack"],
+        "responses": [
+          "Keep the person calm and reassure them.",
+          "Have the person sit upright. Do not have them lie down.",
+          "Help the person use their quick-relief (rescue) inhaler, usually a short-acting beta-agonist like albuterol.",
+          "Loosen any tight clothing around the neck and chest. Move away from any known asthma triggers (e.g., smoke, dust)."
+        ]
+      },
+      {
+        "tag": "asthma_flare-up",
+        "patterns": ["asthma flare-up"],
+        "responses": [
+          "Keep the person calm and reassure them.",
+          "Have the person sit upright. Do not have them lie down.",
+          "Help the person use their quick-relief (rescue) inhaler, usually a short-acting beta-agonist like albuterol.",
+          "Loosen any tight clothing around the neck and chest. Move away from any known asthma triggers (e.g., smoke, dust)."
+        ]
+      },
+      {
+        "tag": "asthma_crisis",
+        "patterns": ["asthma crisis"],
+        "responses": [
+          "Keep the person calm and reassure them.",
+          "Have the person sit upright. Do not have them lie down.",
+          "Help the person use their quick-relief (rescue) inhaler, usually a short-acting beta-agonist like albuterol.",
+          "Loosen any tight clothing around the neck and chest. Move away from any known asthma triggers (e.g., smoke, dust)."
+        ]
+      },
+      {
+        "tag": "asthma_emergency",
+        "patterns": ["asthma emergency"],
+        "responses": [
+          "Keep the person calm and reassure them.",
+          "Have the person sit upright. Do not have them lie down.",
+          "Help the person use their quick-relief (rescue) inhaler, usually a short-acting beta-agonist like albuterol.",
+          "Loosen any tight clothing around the neck and chest. Move away from any known asthma triggers (e.g., smoke, dust)."
+        ]
+      },
+      {
+        "tag": "high_blood_pressure",
+        "patterns": ["high blood pressure", "hypertension"],
+        "responses": [
+          "Help the person stay calm and seated.",
+          "Monitor If possible, measure their blood pressure.",
+          "If they have prescribed medication, ensure they take it.",
+          "Avoid stressors: Encourage relaxation and avoid stressful situations."
+        ]
+      },
+      {
+        "tag": "heart_attack",
+        "patterns": ["heart attack"],
+        "responses": [
+          "Immediately call for emergency help.",
+          "Have the person sit down and stay calm.",
+          "If they are not allergic, have them chew an aspirin (if advised by a healthcare provider).",
+          "If the person is unconscious and not breathing, start CPR."
+        ]
+      },
+      {
+        "tag": "heart_failure",
+        "patterns": ["heart failure"],
+        "responses": [
+          "Immediately call for emergency help.",
+          "Help the person sit in a comfortable position.",
+          "If they have prescribed medication, ensure they take it.",
+          "Keep an eye on their symptoms and be ready to perform CPR if they stop breathing."
+        ]
+      },
+      {
+        "tag": "heart_disease",
+        "patterns": ["heart disease"],
+        "responses": [
+          "Call Emergency Services: If they have severe chest pain or difficulty breathing.",
+          "Encourage them to rest and stay calm.",
+          "Ensure they take their prescribed heart medication.",
+          "Keep them still and avoid physical exertion."
+        ]
+      },
+      {
+        "tag": "shock",
+        "patterns": ["shock"],
+        "responses": [
+          "Immediately call for emergency help.",
+          "Have the person lie down and elevate their legs, if possible.",
+          "Cover them with a blanket to keep them warm.",
+          "Keep an eye on their breathing and pulse. Be ready to perform CPR if needed."
+        ]
+      },
+      {
+        "tag": "hepatitis",
+        "patterns": ["hepatitis"],
+        "responses": [
+          "Avoid contact with the person’s blood or bodily fluids.",
+          "Ensure they get rest and stay hydrated.",
+          "Encourage them to seek medical advice.",
+          "Practice good hygiene to prevent spreading the infection."
+        ]
+      },
+      {
+        "tag": "liver_failure",
+        "patterns": ["liver failure"],
+        "responses": [
+          "Immediately call for emergency help.",
+          "Keep an eye on their symptoms.",
+          "Keep them comfortable and calm.",
+          "Do not give them any medications without medical advice."
+        ]
+      },
+      {
+        "tag": "liver_disease",
+        "patterns": ["liver disease"],
+        "responses": [
+          "Keep the person calm and comfortable.",
+          "Ensure they avoid alcohol and any substances that may further damage the liver.",
+          "Encourage them to drink water to stay hydrated, but avoid sugary or caffeinated drinks.",
+          "Keep an eye on symptoms such as jaundice (yellowing of the skin and eyes), confusion, and swelling in the abdomen or legs. These can indicate worsening of the condition."
+        ]
+      },
+      {
+        "tag": "anxiety",
+        "patterns": ["anxiety"],
+        "responses": [
+          "Help the person stay calm and breathe slowly.",
+          "Offer reassurance and support.",
+          "Move them to a quiet and safe space.",
+          "Encourage deep, slow breaths to reduce panic."
+        ]
+      },
+      {
+        "tag": "hearing_loss",
+        "patterns": ["hearing loss"],
+        "responses": [
+          "Move to a quieter environment.",
+          "Do not insert anything into the ear.",
+          "Seek medical advice if hearing does not improve or if there is pain.",
+          "Help them communicate effectively (e.g., through writing)."
+        ]
+      },
+    {
+        "tag": "debris",
+        "patterns": ["debris"],
+        "responses": [
+            "If you're stuck under debris:",
+            "Stay calm. Signal for help using noise or light.",
+            "Protect your airway from dust. Avoid moving to prevent further collapse.",
+            "Await rescue while conserving energy and resources."
+        ]
+    },
+    {
+        "tag": "manhole",
+        "patterns": ["manhole"],
+        "responses": [
+            "Stay calm to assess yourself for injuries",
+            "Use your phone to call for help or shout for assistance if possible.",
+            "Be cautious of water flow and hazards inside the manhole",
+            "Wait patiently for emergency responders to safely rescue you, avoiding any further movements that could worsen your situation."
+        ]
+    },
+    {
+        "tag": "fire",
+        "patterns": ["fire"],
+        "responses": [
+            "During a fire, always prioritize your safety by staying low to avoid smoke inhalation.",
+            "Quickly exit using the nearest safe route, checking doors for heat before opening them—if a door is hot, find another way out",
+            "Alert others as you leave, but don't delay your escape.",
+            "Once outside, gather at a safe meeting point and call emergency services for help."
+        ]
+    },
+    {
+        "tag": "fog",
+        "patterns": ["fog"],
+        "responses": [
+            "If you encounter smoke or fog, prioritize safety by reducing exposure and taking precautions",
+            "In smoke, stay low where the air is clearer and avoid inhaling deeply. If possible, cover your nose and mouth with a cloth.",
+            "In foggy conditions, reduce speed if driving and use headlights to increase visibility.",
+            "Stay updated on weather and fire conditions, and heed warnings from authorities."
+        ]
+    },
+    {
+        "tag": "stuck underwater",
+        "patterns": ["stuck underwater"],
+        "responses": [
+            "If you're stuck underwater, staying calm is crucial.",
+            "Look for air pockets to breathe from if possible.",
+            "Try to swim to safety or find an exit. Once out of the water, seek medical help right away."
+        ]
+    },
+    {
+        "tag": "air",
+        "patterns": ["air", "oxygen", "breath"],
+        "responses": [
+            "Try to swim to safety or find an exit. Once out of the water, seek medical help right away.",
+            "Look around for any sources of breathable air, such as vents or openings. Take slow breaths to conserve oxygen.",
+            "Signal for help by making noise or banging on surfaces. Plan your escape towards exits or areas with better air circulation if possible",
+            "Trust that rescuers are coming and stay visible for their arrival."
+        ]
+    },
+    {
+        "tag": "fire_building",
+        "patterns": ["fire_building", "building_fire"],
+        "responses": [
+            "If there's a fire in a building, stay calm and assess your options. Check for smoke or flames below and above you to decide the safest direction to escape",
+            "Typically, it's safer to move downward because smoke rises. Use stairs, not elevators, and help others evacuate if you can.",
+            "Head towards the nearest exit and move away from the building to a safe location.",
+            "Follow emergency procedures and listen to instructions from emergency responders for your safety."
+        ]
+    },
+    {
+        "tag": "forestfire",
+        "patterns": ["forest_fire", "wild_fire"],
+        "responses": [
+            "If you encounter a forest fire, prioritize your safety by staying informed through official updates and evacuation orders.",
+            "Evacuate early to a safe location away from the fire's path, moving uphill or against the fire's direction if possible.",
+            "Look for clearings, roads, or bodies of water to use as natural barriers.",
+            "Stay low if there's smoke and seek shelter in a cleared area or secure building until it's safe to leave.",
+            "Follow directions from emergency responders for your safety."
+        ]
+    },
+    {
+        "tag": "tsunami",
+        "patterns": ["tsunami"],
+        "responses": [
+            "If a tsunami is approaching, move quickly to higher ground or inland as soon as possible.",
+            "Avoid using vehicles and follow evacuation routes provided by local authorities.",
+            "Stay informed through official channels and steer clear of coastal areas, beaches, and harbors until the all-clear is given.",
+            "Be prepared for aftershocks and assist others who may need help evacuating.",
+            "Taking these steps can help ensure your safety during a tsunami emergency."
+        ]
+    },
+    {
+        "tag": "tornado",
+        "patterns": ["tornado"],
+        "responses": [
+            "If a tornado is approaching, find shelter immediately in the lowest level of a strong building, such as a basement or interior room away from windows.",
+            "Cover yourself with sturdy furniture or blankets to protect against flying debris.",
+            "Stay informed with weather updates and follow guidance from local authorities.",
+            "Avoid using vehicles and wait for the all-clear before leaving your safe location.",
+            "Taking these precautions can help keep you safe during a tornado."
+        ]
+    },
+    {
+        "tag": "can'tswim",
+        "patterns": ["can't swim"],
+        "responses": [
+            "If you can't swim and find yourself in water, the most important thing is to stay calm.",
+            "Try to float on your back or tread water to stay above the surface.",
+            "Call for help and try to grab onto anything nearby that can help you stay afloat, like a buoy or floating object.",
+            "Stay visible to rescuers and wait patiently for help to arrive.",
+            "It's important to avoid panicking and conserve your energy while waiting for assistance."
+        ]
+    },
+    {
+        "tag": "volcano",
+        "patterns": ["volcano"],
+        "responses": [
+            "If you're near a volcano that's showing signs of activity, it's crucial to stay informed and act quickly.",
+            "Follow evacuation orders immediately if they're issued, using specified routes.",
+            "Protect yourself from ashfall by wearing long clothing, goggles, and a mask.",
+            "Seek shelter indoors, close windows and doors tightly, and stay away from river valleys prone to mudflows.",
+            "Be prepared for potential aftershocks and listen closely to instructions from local authorities and emergency services for your safety."
+        ]
+    },
+    {
+        "tag": "hurricane",
+        "patterns": ["hurricane"],
+        "responses": [
+            "During a hurricane, stay informed through local news and weather updates.",
+            "Secure your home by boarding up windows and bringing in outdoor items.",
+            "If advised to evacuate, follow the instructions and take essential supplies.",
+            "If staying home, stay indoors away from windows and listen for emergency alerts.",
+            "After the storm passes, remain indoors until authorities confirm it's safe.",
+            "Taking these precautions can help ensure your safety during a hurricane."
+        ]
+    },
+    {
+        "tag": "landslide",
+        "patterns": ["landslide"],
+        "responses": [
+            "In the event of a landslide, it's crucial to act quickly and stay safe.",
+            "Before a landslide, be aware of your surroundings, monitor weather conditions, and have an emergency kit and plan ready.",
+            "During a landslide, move to higher ground if possible, or take shelter indoors away from windows.",
+            "After the landslide, avoid the affected area due to potential further slides, listen to local authorities, and check for injuries and property damage.",
+            "Long-term, work with your community to implement measures to reduce future risks and ensure everyone's safety."
+        ]
+    },
+    {
+        "tag": "fallentree",
+        "patterns": ["fallen tree"],
+        "responses": [
+            "If you come across a fallen tree, first ensure everyone's safety by checking for injuries and avoiding any potential hazards like downed power lines.",
+            "Call emergency services if needed, especially for significant damage or injuries.",
+            "Clear smaller branches and debris cautiously if it's safe to do so, but leave larger or tangled trees for professionals with the right equipment.",
+            "Document any damage for insurance purposes and proceed carefully to manage the situation effectively while prioritizing safety at all times."
+        ]
+    },
+    {
+        "tag": "buildingcollapse",
+        "patterns": ["building collapse"],
+        "responses": [
+            "If a building collapses, the most important thing is to stay calm and act quickly.",
+            "Call emergency services immediately to report the collapse and any injuries.",
+            "Evacuate the area using the nearest safe exit, helping others if possible.",
+            "Stay away from the collapsed building and any potential dangers like gas leaks or falling debris.",
+            "Follow instructions from emergency responders and cooperate with authorities.",
+            "Taking these steps can help ensure your safety and the safety of others affected by the building collapse."
+        ]
+    },
+    {
+        "tag": "insectbite",
+        "patterns": ["insect bite"],
+        "responses": [
+            "If you're bitten by an insect, first wash the area with soap and water to prevent infection.",
+            "If it's a bee sting, gently scrape out the stinger with a flat object.",
+            "Apply a cold compress to reduce swelling and take over-the-counter antihistamines or use hydrocortisone cream for itching.",
+            "Watch for signs of an allergic reaction such as difficulty breathing or swelling, and seek medical help if needed.",
+            "Wear protective clothing and insect repellent to prevent future bites when outdoors.",
+            "Taking these steps can help manage and treat insect bites effectively."
+        ]
+    },
+    {
+        "tag": "shipcrash",
+        "patterns": ["crashship", "shipcrash", "boatcrash", "boat", "ship"],
+        "responses": [
+            "In the event of a ship crash, staying calm and following instructions are crucial.",
+            "Quickly put on a life jacket and move to designated evacuation points or lifeboats as directed by crew members.",
+            "Help others who may need assistance, and stay together to ensure everyone's safety.",
+            "Listen carefully to announcements and follow emergency procedures provided by the crew.",
+            "Be prepared to signal for help and cooperate with rescue efforts once assistance arrives.",
+            "Prioritizing safety and cooperation can make a significant difference in surviving a ship crash."]
+    },
+    {
+        "tag":"quit",
+        "patterns":["quit","exit","bye","leave","stop","getlost","thanks","thank you"],
+        "responses":["Take Care! Goodbyee......."]
+    },
+    {
+        "tag":"hello",
+        "patterns":["hi","wassup","heyyy","Halo","Anyone there"],
+        "responses":["Hello there! How can I help you?"]
+    },
+    {
+      "tag": "fell  building",
+      "patterns": [
+        "I fell from a building",
+        "Someone fell from a building",
+        "Fall from building",
+        "What to do if someone falls from a building?",
+        "Fell off a building, need help"
+      ],
+      "responses": [
+        "If someone falls from a building, call emergency services immediately. Keep the person still and avoid moving them unless necessary to prevent further injury. Check for breathing and perform CPR if needed. Do not attempt to reposition any broken bones."
+      ]
+    },
+    {
+      "tag": "electric_cable_cut",
+      "patterns": [
+        "I cut an electric cable",
+        "Someone cut an electric cable",
+        "Electric cable cut",
+        "What to do if someone cuts an electric cable?",
+        "Cut a live wire, need help"
+      ],
+      "responses": [
+        "If an electric cable is cut, turn off the power source immediately if it is safe to do so. Do not touch the person or the cable if the power is still on. Call emergency services right away. If the person is unconscious and not breathing, perform CPR if it is safe. Keep others away from the area until it is safe."
+      ]
+    }
+     
+    ] 

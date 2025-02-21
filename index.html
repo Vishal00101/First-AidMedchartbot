@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Aid Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url('static/pic.png');
+            background-size: 100%;
+        }
+        .chat-container {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            max-width: 100%;
+            overflow: hidden;
+        }
+        .chat-header {
+            background: #471511;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        .chat-body {
+            padding: 10px;
+            height: 300px;
+            overflow-y: auto;
+        }
+        .chat-input {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid #ddd;
+        }
+        .chat-input input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #515151;
+            border-radius: 4px;
+        }
+        .chat-input button {
+            background: #545aa7;
+            color: #fff;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-left: 5px;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .message.user {
+            text-align: right;
+        }
+        .message.user .text {
+            background: #800000;
+            color: #fff;
+            display: inline-block;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        .message.bot .text {
+            background: #e1b2ab;
+            display: inline-block;
+            padding: 10px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            First Aid Chatbot
+        </div>
+        <div class="chat-body" id="chat-body">
+        </div>
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Enter your query..." autocomplete="off">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script>
+        function appendMessage(message, sender) {
+            const chatBody = document.getElementById('chat-body');
+            const messageElement = document.createElement('div');
+            messageElement.classList.add('message', sender);
+            const textElement = document.createElement('div');
+            textElement.classList.add('text');
+            textElement.textContent = message;
+            messageElement.appendChild(textElement);
+            chatBody.appendChild(messageElement);
+            chatBody.scrollTop = chatBody.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const userInput = document.getElementById('user-input');
+            const message = userInput.value;
+            if (message.trim() === '') return;
+            appendMessage(message, 'user');
+            userInput.value = '';
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: message })
+            });
+            const data = await response.json();
+            data.response.forEach(resp => appendMessage(resp, 'bot'));
+        }
+    </script>
+</body>
+</html>
